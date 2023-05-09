@@ -1,1 +1,1 @@
-
+You may use the dataTransformer script to transform datasets with traces in rows to a format that can be used by process mining tools. This script will transform each row (trace) to a series of evetns with same identities and different activity name and timestamps. 
